@@ -18,7 +18,7 @@ Tipos de componente suportados (catálogo fixo e limitado):
   alert_list   -> lista de cartões críticos/antigos
 
 Executar localmente:
-    uvicorn main:app --host 0.0.0.0 --port 8000
+    uvicorn app:app --host 0.0.0.0 --port 8000
 
 Endpoints:
     POST /render            -> devolve image/png (bytes)
