@@ -1,0 +1,20 @@
+t=2026-07-29T00:06:37+0100 lvl=info msg="no configuration paths supplied"
+t=2026-07-29T00:06:37+0100 lvl=info msg="using configuration at default config path" path=C:\\Users\\jorge\\AppData\\Local\\ngrok\\ngrok.yml
+t=2026-07-29T00:06:37+0100 lvl=info msg="open config file" path=C:\\Users\\jorge\\AppData\\Local\\ngrok\\ngrok.yml err=nil
+t=2026-07-29T00:06:37+0100 lvl=info msg="FIPS 140 mode" enabled=false
+t=2026-07-29T00:06:37+0100 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+t=2026-07-29T00:06:38+0100 lvl=info msg="client session established" obj=tunnels.session
+t=2026-07-29T00:06:38+0100 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2026-07-29T00:06:38+0100 lvl=info msg="update available" obj=updater
+t=2026-07-29T00:06:38+0100 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:8000 url=https://greasily-shush-sustained.ngrok-free.dev
+t=2026-07-29T00:06:41+0100 lvl=info msg=start pg=/api/tunnels id=614e664b76b7e31a
+t=2026-07-29T00:06:41+0100 lvl=info msg=end pg=/api/tunnels id=614e664b76b7e31a status=200 dur=0s
+t=2026-07-29T00:06:45+0100 lvl=info msg="join connections" obj=join id=e9f37442330b l=127.0.0.1:8000 r=88.157.46.240:57818
+t=2026-07-29T00:19:34+0100 lvl=info msg="join connections" obj=join id=e1d92699ccc8 l=127.0.0.1:8000 r=31.97.28.58:56576
+t=2026-07-29T00:19:53+0100 lvl=info msg="join connections" obj=join id=703f62bd999e l=127.0.0.1:8000 r=31.97.28.58:60096
+t=2026-07-29T00:20:05+0100 lvl=info msg="join connections" obj=join id=9f1e5ffc73aa l=127.0.0.1:8000 r=88.157.46.240:64276
+t=2026-07-29T00:20:12+0100 lvl=info msg="join connections" obj=join id=ed72ff4bdeea l=127.0.0.1:8000 r=88.157.46.240:64276
+t=2026-07-29T00:22:58+0100 lvl=info msg="join connections" obj=join id=a21916094df8 l=127.0.0.1:8000 r=88.157.46.240:58506
+t=2026-07-29T00:23:18+0100 lvl=info msg="join connections" obj=join id=f161bdc83d68 l=127.0.0.1:8000 r=31.97.28.58:59600
+t=2026-07-29T00:26:29+0100 lvl=info msg="join connections" obj=join id=a5870bf04b59 l=127.0.0.1:8000 r=31.97.28.58:55882
+t=2026-07-29T00:29:02+0100 lvl=info msg="join connections" obj=join id=702ea3ff0f92 l=127.0.0.1:8000 r=31.97.28.58:46396

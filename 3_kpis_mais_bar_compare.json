@@ -1,0 +1,1 @@
+{"titulo": "Cardan Barcelos", "subtitulo": "Últimos 7 dias", "theme": "dark", "components": [{"type": "kpi_row", "items": [{"label": "Total", "value": 10, "color": "accent"}, {"label": "Abertos", "value": 2, "color": "warn"}]}, {"type": "bar_compare", "title": "Por unidade", "data": {"Barcelos": 2, "Famalicão": 2, "Guimarães": 4, "Penafiel": 2}}]}
